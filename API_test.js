@@ -34,6 +34,7 @@ fetch(kanal_http+new URLSearchParams({
     makeVideoCard(video_data);
 })
 }
+//funkcija za dodavat video elemente na str
 const makeVideoCard=(data)=>{
 display.innerHTML +=`
 
