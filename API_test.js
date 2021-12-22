@@ -1,6 +1,6 @@
 //secret key i link od API
 const display=document.querySelector('.rectangle-1');
-let api_key ='AIzaSyDvG-wVyKLJgWdJ1LaWtoqfJafWWE7p10s';
+let api_key ='AIzaSyDvG-wVyKLJgWdJ1LaWtoqfJafWWE7p10s';//Nemoš koristit ovaj,tribaš nabavit svoj
 let video_http="https://www.googleapis.com/youtube/v3/videos?";
 let kanal_http="https://www.googleapis.com/youtube/v3/channels?";
 
